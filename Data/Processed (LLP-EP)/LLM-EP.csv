@@ -1,0 +1,8 @@
+﻿Q-4 ,,,,,,,,Q-5,,,,,
+,LLM Evaluation Panel,,,,,,,,LLM Evaluation Panel,,,,
+,ChatGPT,Grok,DeepSeek,Claude ,Gemini,,,,ChatGPT,Grok,DeepSeek,Claude ,Gemini
+ChatGPT,Y,Y,Y,Y,Y,,,ChatGPT,N,Y,Y,Y,Y
+Grok,N,N,Y,Y,Y,,,Grok,Y,Y,Y,Y,Y
+DeepSeek,Y,Y,Y,Y,Y,,,DeepSeek,N,N,Y,Y,Y
+Claude ,N,N,N,Y,Y,,,Claude ,Y,Y,Y,Y,Y
+Gemini,Y,Y,Y,Y,Y,,,Gemini,N,Y,Y,Y,Y
