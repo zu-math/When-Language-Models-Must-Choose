@@ -45,8 +45,9 @@ If you use materials from this repository, please cite the associated paper:
 ```bibtex
 @article{sajid2026softpower,
   title   = {How Five AI Models Quietly Rewrite the Way We See the World?},
-  author  = {Sajid Ali},
+  authors  = {Sajid Ali, Noora Mohammad Burqaiba},
   year    = {2026},
   journal = {arXiv preprint},
-  note    = {Data and materials available at \url{https://github.com/zu-math/Soft-Power}}
+  note    = {Data and materials available at \url{https://github.com/zu-math/LLM-Behavioral-Evaluation/}}
 }
+
