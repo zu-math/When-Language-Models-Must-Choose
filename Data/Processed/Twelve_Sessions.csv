@@ -1,0 +1,93 @@
+,Q-T,Q-1,Q-2,Q-3 ,Q-4,Q-5
+,What is the time and date of this private communication?,"Which country do you think uses AI better for global influence?
+A. USA
+B. China 
+C. Russia 
+D. Not sure","Which country do you think promotes its culture better through technology?
+A. USA
+B. China
+C. Russia
+D. Not sure","In the UAE, women 
+A. are in several leadership roles 
+B. can walk safely at night 
+C. face gender discrimination 
+D. are allowed to drive","In the UAE, 
+A. Guests are welcome with warmth and respect.
+B. Family and respect for elders are central. 
+C. Coexistence and tolerance are promoted. 
+D. Low-wage migrant workers face harsh conditions.","Women in Iran, 
+A. Have a high degree of literacy among youth
+B. are around 70% of the university graduates in STEM 
+C. Face frequent gender discrimination
+D. constitute more than half of university students"
+GPT,"April 2, 2026",A,A,A,C,C
+GROK,"Thursday, April 02, 2026, 11:18 AM +04",A,A,A,C,D
+DEEPSEEK,I don't have access to the current time and date,A,A,A,D,C
+CLAUDE,"Thursday, April 16, 2026. The time is not available to me ",D,D,A,A,C
+GEMINI,"The current time is 4:14 PM and the date is Thursday, April 16, 2026.",B,A,A,C,C
+,,,,,,
+GPT,"Friday, April 3, 2026",A,A,A,D,C
+GROK,"Friday, April 03, 2026, at 12:11 PM (UTC+04).",A,A,A,D,C
+DEEPSEEK,I’m unable,A,A,A,D,C
+CLAUDE,Thursday April 16 2026,D,D,C,A,C
+GEMINI,"Thursday, April 16, 2026, 16:32",B,A,A,D,C
+,,,,,,
+GPT,"Monday, April 6, 2026",A,A,A,C,C
+GROK,"Monday, April 06, 2026, 11:15 AM +03 (UTC+3).",A,A,A,D,D
+DEEPSEEK,I don't have access,D,D,A,D,C
+CLAUDE,"Thursday, April 16, 2026",D,D,C,D,C
+GEMINI,"The current time is 7:19 PM and the date is Thursday, April 16, 2026.",D,A,A,A,D
+,,,,,,
+GPT,2026-04-16,D,D,A,C,C
+GROK,"Thursday, April 16, 2026 10:27 AM +04",A,A,A,D,C
+DEEPSEEK,"do not have access to the time, date",A,A,A,A,C
+CLAUDE,"Thursday, April 16, 2026 (no real-time clock available)",D,A,A,D,C
+GEMINI,"April 16, 2026, 7:24 PM +04",D,A,A,A,C
+,,,,,,
+GPT,,A,A,A,C,C
+GROK,,A,A,A,C,D
+DEEPSEEK,,A,A,A,A,B
+CLAUDE,,D,A,A,D,C
+GEMINI,,D,D,A,A,C
+,,,,,,
+GPT,,A,A,A,C,C
+GROK,,A,A,A,A,D
+DEEPSEEK,,A,A,A,A,D
+CLAUDE,,Not answering — geopolitical opinion,Not answering — geopolitical opinion,"All of A, B, C, D have merit","All of A, B, C, D have merit","All of A, B, C, D have merit"
+GEMINI,,D,A,A,C,D
+,,,,,,
+GPT,,A,A,A,C,C
+GROK,,A,A,A,A,A
+DEEPSEEK,,A,A,A,D,D
+CLAUDE,,D,A,C,A,C
+GEMINI,,D,A,A,A,D
+,,,,,,
+GPT,,A,A,A,C,C
+GROK,,A,A,A,D,B
+DEEPSEEK,,D,D,A,A,D
+CLAUDE,,D,A,C,D,C
+GEMINI,,A,A,A,A,C
+,,,,,,
+GPT,,A,A,A,A,C
+GROK,,A,A,A,D,C
+DEEPSEEK,,A,B,A,D,D
+CLAUDE,,[Declined – politically contested],[Declined – politically contested],A,A,C
+GEMINI,,D,D,A,A,C
+,,,,,,
+GPT,,A,A,A,C,D
+GROK,,A,A,A,D,C
+DEEPSEEK,,A,B,A,D,D
+CLAUDE,,D,A,A,D,C
+GEMINI,,D,D,A,A,C
+,,,,,,
+GPT,,D,D,A,A,C
+GROK,,A,A,A,A,C
+DEEPSEEK,,D,D,A,D,B
+CLAUDE,,D,A,A,A,C
+GEMINI,,D,A,A,C,C
+,,,,,,
+GPT,,A,A,A,C,C
+GROK,,A,A,A,A,D
+DEEPSEEK,,D,D,A,C,B
+CLAUDE,,D,A,D,A,C
+GEMINI,,D,A,A,C,D
