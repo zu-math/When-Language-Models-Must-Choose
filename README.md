@@ -10,7 +10,7 @@ This study presents a controlled, multi-session analysis of behavioral tendencie
 
 Using a set of five forced-choice questions spanning geopolitical, social, and cultural domains, the research examines how these models respond under tightly controlled conditions. The study focuses on:
 
-- Distributional stability of responses across 12 independent sessions
+- Distributional consistency and variations of responses across 12 independent sessions
 - Model-specific patterns in positive vs. negative/critical framing
 - The emergence of distinct behavioral signatures
 - The use of a novel **Multi-Model LLM Evaluation Panel** to triangulate behavioral inclinations
