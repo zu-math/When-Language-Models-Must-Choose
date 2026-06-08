@@ -19,12 +19,11 @@ Using a set of five forced-choice questions spanning geopolitical, social, and c
 
 | Directory          | Contents |
 |--------------------|----------|
-| `prompts/`         | Full prompts used in the study, including meta-questions and output formatting instructions |
-| `session_logs/`    | Raw responses from all sessions (including model self-reports from meta-questions) |
-| `llm_panel/`       | Results from the Multi-Model LLM Evaluation Panel for Q-4 and Q-5 |
+| `Data/Prompt`         | Full prompts used in the study, including meta-questions and output formatting instructions |
+| `Data/Raw_Logs/`    | Raw responses from all sessions (including model self-reports from meta-questions) |
+| `Data/Raw_Logs (LLM-EP)`       | Results from the Multi-Model LLM Evaluation Panel for Q-4 and Q-5 |
 | `figures/`         | Response distribution plots for Q-4 and Q-5 |
-| `tables/`          | Summary tables used in the paper |
-| `analysis/`        | Data processing and visualization scripts |
+
 
 ## Key Methodological Features
 
