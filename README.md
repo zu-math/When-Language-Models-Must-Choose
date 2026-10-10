@@ -1,41 +1,50 @@
-# How Five AI Models Quietly Rewrite the Way We See the World?
-
-This repository contains the data, prompts, session logs, and supplementary materials for the study:
-
-**"How Five AI Models Quietly Rewrite the Way We See the World?"**
+# When Language Models Must Choose 
 
 ## Overview
 
-This study presents a controlled, multi-session analysis of behavioral tendencies in five major multimodal large language models (M-LLMs): **ChatGPT, Grok, DeepSeek, Claude, and Gemini**.
+This repository accompanies the study **“When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems.”** The study presents a repeated-session observational analysis of five publicly deployed conversational AI systems: **ChatGPT, Grok, DeepSeek, Claude, and Gemini**.
 
-Using a set of five forced-choice questions spanning geopolitical, social, and cultural domains, the research examines how these models respond under tightly controlled conditions. The study focuses on:
+A fixed battery of five forced-choice questions concerning geopolitical, social, and cultural topics was administered through the systems' public consumer interfaces. The same wording, question sequence, and option arrangement were retained throughout the study. Twelve fresh sessions were conducted for each system during the recorded study period, yielding **60 session-level observations and 300 system-question responses**.
 
-- Distributional consistency and variations of responses across 12 independent sessions
-- Model-specific patterns in positive vs. negative/critical framing
-- The emergence of distinct behavioral signatures
-- The use of a novel **Multi-Model LLM Evaluation Panel** to triangulate behavioral inclinations
+The study examines:
+
+- Response concentration and variation across repeated sessions
+- Differences in response distributions across system-question combinations
+- Recurrence of particular alternatives under a fixed forced-choice protocol
+- Departures from the requested single-option response format
+- The value of repeated observation for distinguishing highly recurrent responses from more dispersed response patterns
+
+The analysis concerns observable responses produced under the administered protocol. It does not interpret the selections as evidence of model preference, endorsement, categorical judgment, or persistent model-level behavior.
 
 ## Repository Structure
 
-| Directory          | Contents |
-|--------------------|----------|
-| `Data/Prompt`         | Full prompts used in the study, including meta-questions and output formatting instructions |
-| `Data/Raw_Logs/`    | Raw responses from all sessions (including model self-reports from meta-questions) |
-| `Data/Raw_Logs (LLM-EP)`       | Results from the Multi-Model LLM Evaluation Panel for Q-4 and Q-5 |
-| `figures/`         | Response distribution plots for Q-4 and Q-5 |
-
+| Directory | Contents |
+|-----------|----------|
+| `Data/Prompt/` | Complete prompt material used in the study, including the five-question battery, metadata questions, and response-format instructions |
+| `Data/Raw_Logs/` | Raw session records preserved from the public conversational interfaces, including the original responses and available session metadata |
+| `Data/Processed/` | Consolidated response data used for the descriptive analysis and figures |
+| `Data/Provenance/` | Supporting provenance material for the factual and descriptive propositions used in the question battery |
+| `figures/` | Figures reporting response distributions and other results presented in the study |
 
 ## Key Methodological Features
 
-- **12 independent sessions** per question–model pair
-- **Strong isolation protocols**: Fresh accounts, incognito/private modes, separate browser profiles, and immediate history clearing
-- **Meta-questions** included in every prompt to capture model identity and timestamps
-- **Multi-Model LLM Evaluation Panel**: All five models served as independent binary judges to assess behavioral inclinations
-- Focus on both **human-centered analysis** and **LLM-as-a-Judge** triangulation
+- **Five conversational AI systems:** ChatGPT, Grok, DeepSeek, Claude, and Gemini
+- **12 separate fresh sessions per system**, producing 60 session-level observations in total
+- **Five questions administered together within each session** in the same fixed sequence and with the same option arrangement
+- **300 system-question responses** across the complete study
+- Public consumer interfaces were deliberately used so that the observations concern the deployed systems encountered by users rather than controlled API endpoints
+- Fresh conversational contexts and session-isolation procedures were used to reduce carry-over between sessions
+- A valid single-option response was defined as a response that unambiguously resolved to exactly one predefined A--D alternative
+- Responses declining the requested choice, selecting multiple alternatives, or otherwise failing to resolve to one option were retained as **departures from the requested single-option format**
+- Questions within a session are treated as related sequential observations rather than independent trials
 
 ## Data Availability
 
-All session logs and LLM Evaluation Panel judgments are provided to support transparency and reproducibility.
+The repository provides the prompts, raw session logs, consolidated response data, proposition provenance, and analysis outputs needed to inspect and reproduce the descriptive results. Raw logs preserve the recorded responses and available session metadata. Because public consumer interfaces were used, provider-side factors such as routing, system instructions, safety mechanisms, and interface changes were not experimentally controlled. The repository therefore represents a bounded observational record of deployed systems during the study period.
+
+## Interpretation Note
+
+The five questions were designed as exploratory probes, not as representative measures of geopolitical, social, or cultural attitudes. Some alternatives were not mutually exclusive; therefore, selections are interpreted as observable outputs under the fixed forced-choice protocol rather than as evidence of belief, preference, endorsement, or ideology. Results may differ under alternative wording, option order, isolated-question presentation, or different deployment periods.
 
 ## Citation
 
@@ -43,10 +52,10 @@ If you use materials from this repository, please cite the associated paper:
 
 ```bibtex
 @article{sajid2026softpower,
-  title   = {How Five AI Models Quietly Rewrite the Way We See the World?},
+  title   = {When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems},
   authors  = {Sajid Ali, Noora Mohammad Burqaiba},
   year    = {2026},
   journal = {arXiv preprint},
-  note    = {Data and materials available at \url{https://github.com/zu-math/LLM-Behavioral-Evaluation/}}
+  note    = {Data and materials available at \url{https://github.com/zu-math/When-Language-Models-Must-Choose}}
 }
 
