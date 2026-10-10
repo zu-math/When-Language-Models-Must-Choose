@@ -61,4 +61,5 @@ If you use materials from this repository, please cite the associated paper:
   note      = {Accepted for publication},
   url       = {https://github.com/zu-math/When-Language-Models-Must-Choose}
 }
+```
 
