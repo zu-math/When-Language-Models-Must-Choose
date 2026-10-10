@@ -48,14 +48,13 @@ The five questions were designed as exploratory probes, not as representative me
 
 ## Citation
 
-If you use materials from this repository, please cite the associated paper:
-
-```bibtex
-@article{sajid2026softpower,
-  title   = {When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems},
-  authors  = {Sajid Ali, Noora Mohammad Burqaiba},
-  year    = {2026},
-  journal = {arXiv preprint},
-  note    = {Data and materials available at \url{https://github.com/zu-math/When-Language-Models-Must-Choose}}
+@inproceedings{ali2027when,
+  title     = {When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems},
+  author = {S. Ali and N. M. Burqaiba},
+  booktitle = {Proceedings of the 12th International Congress on Information and Communication Technology (ICICT 2027)},
+  series    = {Lecture Notes in Networks and Systems},
+  publisher = {Springer},
+  year      = {2027},
+  note      = {Accepted for publication. Data and materials available at \url{https://github.com/zu-math/When-Language-Models-Must-Choose}}
 }
 
