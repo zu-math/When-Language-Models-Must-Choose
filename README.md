@@ -50,7 +50,7 @@ The five questions were designed as exploratory probes, not as representative me
 
 @inproceedings{ali2027when,
   title     = {When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems},
-  author = {S. Ali and N. M. Burqaiba},
+  author = {S. Ali and N. M. Burqaiba}, 
   booktitle = {Proceedings of the 12th International Congress on Information and Communication Technology (ICICT 2027)},
   series    = {Lecture Notes in Networks and Systems},
   publisher = {Springer},
