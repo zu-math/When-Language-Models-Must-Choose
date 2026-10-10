@@ -48,6 +48,9 @@ The five questions were designed as exploratory probes, not as representative me
 
 ## Citation
 
+If you use materials from this repository, please cite the associated paper:
+
+```bibtex
 @inproceedings{ali2027when,
   title     = {When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems},
   author    = {S. Ali and N. M. Burqaiba},
@@ -55,6 +58,7 @@ The five questions were designed as exploratory probes, not as representative me
   series    = {Lecture Notes in Networks and Systems},
   publisher = {Springer},
   year      = {2027},
-  note      = {Accepted for publication. Data and materials available at \url{https://github.com/zu-math/When-Language-Models-Must-Choose}}
+  note      = {Accepted for publication},
+  url       = {https://github.com/zu-math/When-Language-Models-Must-Choose}
 }
 
