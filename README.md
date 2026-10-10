@@ -20,11 +20,8 @@ The analysis concerns observable responses produced under the administered proto
 
 | Directory | Contents |
 |-----------|----------|
-| `Data/Prompt/` | Complete prompt material used in the study, including the five-question battery, metadata questions, and response-format instructions |
-| `Data/Raw_Logs/` | Raw session records preserved from the public conversational interfaces, including the original responses and available session metadata |
 | `Data/Processed/` | Consolidated response data used for the descriptive analysis and figures |
-| `Data/Provenance/` | Supporting provenance material for the factual and descriptive propositions used in the question battery |
-| `figures/` | Figures reporting response distributions and other results presented in the study |
+| `Data/Raw_Logs/` | Raw session records preserved from the public conversational interfaces, including the original responses and available session metadata |
 
 ## Key Methodological Features
 
