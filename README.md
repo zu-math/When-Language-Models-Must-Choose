@@ -48,7 +48,7 @@ The five questions were designed as exploratory probes, not as representative me
 If you use materials from this repository, please cite the associated paper:
 
 ```bibtex
-@inproceedings{Ali2027LLMChoice,,
+@inproceedings{Ali2027LLMChoice,
   title     = {When Language Models Must Choose: Repeated Forced-Choice Responses in Publicly Deployed Conversational AI Systems},
   author    = {S. Ali and N. M. Burqaiba},
   booktitle = {Proceedings of the 12th International Congress on Information and Communication Technology (ICICT 2027)},
