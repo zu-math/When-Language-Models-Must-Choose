@@ -37,7 +37,7 @@ The analysis concerns observable responses produced under the administered proto
 
 ## Data Availability
 
-The repository provides the prompts, raw session logs, consolidated response data, proposition provenance, and analysis outputs needed to inspect and reproduce the descriptive results. Raw logs preserve the recorded responses and available session metadata. Because public consumer interfaces were used, provider-side factors such as routing, system instructions, safety mechanisms, and interface changes were not experimentally controlled. The repository therefore represents a bounded observational record of deployed systems during the study period.
+The repository provides raw session logs along with consolidated CSV record needed to inspect and reproduce the descriptive results. Raw logs preserve the recorded responses and available session metadata. Because public consumer interfaces were used, provider-side factors such as routing, system instructions, safety mechanisms, and interface changes were not experimentally controlled. The repository therefore represents a bounded observational record of deployed systems during the study period.
 
 ## Interpretation Note
 
